@@ -1,0 +1,667 @@
+Item Tag,Item String,Indent Level
+DAQ Reset DO Port,DAQ Reset DO Port,0
+-,-,1
+-_2,-,2
+Delay (ms),Delay (ms),3
+DAQ Wait DI Port Init,DAQ Wait DI Port Init,0
+-_3,-,1
+-_4,-,2
+Delay (ms)_2,Delay (ms),3
+DAQ Write DO Single,DAQ Write DO Single,0
+567 900 Rögzít,567 900 Rögzít,1
+0,0,2
+Delay (ms)_3,Delay (ms),3
+1,1,2
+Delay (ms)_4,Delay (ms),3
+567 910 Rögzít,567 910 Rögzít,1
+0_2,0,2
+Delay (ms)_5,Delay (ms),3
+1_2,1,2
+Delay (ms)_6,Delay (ms),3
+Vezeték Rögzítõ Fel,Vezeték Rögzítõ Fel,1
+0_3,0,2
+Delay (ms)_7,Delay (ms),3
+1_3,1,2
+Delay (ms)_8,Delay (ms),3
+Lézer Shutter Zár,Lézer Shutter Zár,1
+0_4,0,2
+Delay (ms)_9,Delay (ms),3
+1_4,1,2
+Delay (ms)_10,Delay (ms),3
+DO 5 (üres szelep),DO 5 (üres szelep),1
+0_5,0,2
+Delay (ms)_11,Delay (ms),3
+1_5,1,2
+Delay (ms)_12,Delay (ms),3
+Kontakt Kinyomó Ki,Kontakt Kinyomó Ki,1
+0_6,0,2
+Delay (ms)_13,Delay (ms),3
+1_6,1,2
+Delay (ms)_14,Delay (ms),3
+Megfogó Zár,Megfogó Zár,1
+0_7,0,2
+Delay (ms)_15,Delay (ms),3
+1_7,1,2
+Delay (ms)_16,Delay (ms),3
+Megfogó Ki,Megfogó Ki,1
+0_8,0,2
+Delay (ms)_17,Delay (ms),3
+1_8,1,2
+Delay (ms)_18,Delay (ms),3
+Megfogó Be,Megfogó Be,1
+0_9,0,2
+Delay (ms)_19,Delay (ms),3
+1_9,1,2
+Delay (ms)_20,Delay (ms),3
+Vakdugó Benyomó Fel,Vakdugó Benyomó Fel ,1
+0_10,0,2
+Delay (ms)_21,Delay (ms),3
+1_10,1,2
+Delay (ms)_22,Delay (ms),3
+Vakdugó Benyomó Le,Vakdugó Benyomó Le,1
+0_11,0,2
+Delay (ms)_23,Delay (ms),3
+1_11,1,2
+Delay (ms)_24,Delay (ms),3
+Vakdugó Benyomó Be,Vakdugó Benyomó Be,1
+0_12,0,2
+Delay (ms)_25,Delay (ms),3
+1_12,1,2
+Delay (ms)_26,Delay (ms),3
+DO 13 (üres szelep),DO 13 (üres szelep),1
+0_13,0,2
+Delay (ms)_27,Delay (ms),3
+1_13,1,2
+Delay (ms)_28,Delay (ms),3
+10P Csatlakozó Rögzítés,10P Csatlakozó Rögzítés,1
+0_14,0,2
+Delay (ms)_29,Delay (ms),3
+1_14,1,2
+Delay (ms)_30,Delay (ms),3
+566 Rögzítés,566 Rögzítés,1
+0_15,0,2
+Delay (ms)_31,Delay (ms),3
+1_15,1,2
+Delay (ms)_32,Delay (ms),3
+567 900 Kilök,567 900 Kilök,1
+0_16,0,2
+Delay (ms)_33,Delay (ms),3
+1_16,1,2
+Delay (ms)_34,Delay (ms),3
+567 910 Kilök,567 910 Kilök,1
+0_17,0,2
+Delay (ms)_35,Delay (ms),3
+1_17,1,2
+Delay (ms)_36,Delay (ms),3
+Lámpa Be,Lámpa Be,1
+0_18,0,2
+Delay (ms)_37,Delay (ms),3
+1_18,1,2
+Delay (ms)_38,Delay (ms),3
+DO 3,DO 3,1
+0_19,0,2
+Delay (ms)_39,Delay (ms),3
+1_19,1,2
+Delay (ms)_40,Delay (ms),3
+DO 4,DO 4,1
+0_20,0,2
+Delay (ms)_41,Delay (ms),3
+1_20,1,2
+Delay (ms)_42,Delay (ms),3
+DO 5,DO 5,1
+0_21,0,2
+Delay (ms)_43,Delay (ms),3
+1_21,1,2
+Delay (ms)_44,Delay (ms),3
+600V,600V,1
+0_22,0,2
+Delay (ms)_45,Delay (ms),3
+1_22,1,2
+Delay (ms)_46,Delay (ms),3
+Relé ISOL,Relé ISOL,1
+0_23,0,2
+Delay (ms)_47,Delay (ms),3
+1_23,1,2
+Delay (ms)_48,Delay (ms),3
+Relé 566,Relé 566,1
+0_24,0,2
+Delay (ms)_49,Delay (ms),3
+1_24,1,2
+Delay (ms)_50,Delay (ms),3
+Relé 567 900,Relé 567 900,1
+0_25,0,2
+Delay (ms)_51,Delay (ms),3
+1_25,1,2
+Delay (ms)_52,Delay (ms),3
+Relé 567 910,Relé 567 910,1
+0_26,0,2
+Delay (ms)_53,Delay (ms),3
+1_26,1,2
+Delay (ms)_54,Delay (ms),3
+Elszívó Be,Elszívó Be,1
+0_27,0,2
+Delay (ms)_55,Delay (ms),3
+1_27,1,2
+Delay (ms)_56,Delay (ms),3
+DO 11,DO 11,1
+0_28,0,2
+Delay (ms)_57,Delay (ms),3
+1_28,1,2
+Delay (ms)_58,Delay (ms),3
+DO 12,DO 12,1
+0_29,0,2
+Delay (ms)_59,Delay (ms),3
+1_29,1,2
+Delay (ms)_60,Delay (ms),3
+DO 13,DO 13,1
+0_30,0,2
+Delay (ms)_61,Delay (ms),3
+1_30,1,2
+Delay (ms)_62,Delay (ms),3
+DO 14,DO 14,1
+0_31,0,2
+Delay (ms)_63,Delay (ms),3
+1_31,1,2
+Delay (ms)_64,Delay (ms),3
+DO 15,DO 15,1
+0_32,0,2
+Delay (ms)_65,Delay (ms),3
+1_32,1,2
+Delay (ms)_66,Delay (ms),3
+DO 16,DO 16,1
+0_33,0,2
+Delay (ms)_67,Delay (ms),3
+1_33,1,2
+Delay (ms)_68,Delay (ms),3
+DAQ Read DI Single,DAQ Read DI Single,0
+Fénysorompó,Fénysorompó,1
+Levegõ OK,Levegõ OK,1
+DI 3,DI 3,1
+Lézer Shutter Zárva,Lézer Shutter Zárva,1
+566 Betéve,566 Betéve,1
+DI 6,DI 6,1
+DI 7,DI 7,1
+DI 8,DI 8,1
+DI 9,DI 9,1
+DI 10,DI 10,1
+DI 11,DI 11,1
+DI 12,DI 12,1
+566 Rögzítve,566 Rögzítve,1
+Vakdugó Benyomó Kint,Vakdugó Benyomó Kint,1
+Lézer Shutter Nyitva,Lézer Shutter Nyitva,1
+Vakdugó Benyomó Bent,Vakdugó Benyomó Bent,1
+Megfogó Zárva,Megfogó Zárva,1
+Vakdugó Benyomó Lent,Vakdugó Benyomó Lent,1
+Vakdugó Benyomó Fent,Vakdugó Benyomó Fent,1
+Kontakt Kinyomó Kint,Kontakt Kinyomó Kint,1
+Kontakt Kinyomó Bent,Kontakt Kinyomó Bent,1
+Vezeték Rögzítõ Lent,Vezeték Rögzítõ Lent,1
+Vezeték Rögzítõ Fent,Vezeték Rögzítõ Fent,1
+DI 8_2,DI 8,1
+DI 9_2,DI 9,1
+DI 10_2,DI 10,1
+DI 11_2,DI 11,1
+DI 12_2,DI 12,1
+DI 13,DI 13,1
+Megfogó Kint,Megfogó Kint,1
+Megfogó Bent,Megfogó Bent,1
+Megfogó Nyitva,Megfogó Nyitva,1
+DI 1,DI 1,1
+DI 2,DI 2,1
+DI 3_2,DI 3,1
+DI 4,DI 4,1
+Kritikus / OK,Kritikus / OK,1
+DI 6_2,DI 6,1
+DI 7_2,DI 7,1
+DI 8_3,DI 8,1
+Vezeték 1,Vezeték 1,1
+DI 10_3,DI 10,1
+DI 11_3,DI 11,1
+DI 12_3,DI 12,1
+DI 13_2,DI 13,1
+DI 14,DI 14,1
+DI 15,DI 15,1
+DI 16,DI 16,1
+10P Csatlakozó Betéve (NC),10P Csatlakozó Betéve (NC),1
+Lézerfészek Érzékelõ,Lézerfészek Érzékelõ,1
+Vakdugó Érzékelõ (NC),Vakdugó Érzékelõ (NC),1
+567 900 Betéve (NC),567 900 Betéve (NC),1
+567 910 Betéve (NC),567 910 Betéve (NC),1
+DI 6_3,DI 6,1
+DI 7_3,DI 7,1
+DI 8_4,DI 8,1
+DAQ Wait DI Single,DAQ Wait DI Single,0
+Fénysorompó_2,Fénysorompó,1
+TimeOut (ms),TimeOut (ms),2
+Delay (ms)_69,Delay (ms),3
+Levegõ OK_2,Levegõ OK,1
+TimeOut (ms)_2,TimeOut (ms),2
+Delay (ms)_70,Delay (ms),3
+DI 3_3,DI 3,1
+TimeOut (ms)_3,TimeOut (ms),2
+Delay (ms)_71,Delay (ms),3
+Lézer Shutter Zárva_2,Lézer Shutter Zárva,1
+TimeOut (ms)_4,TimeOut (ms),2
+Delay (ms)_72,Delay (ms),3
+566 Betéve_2,566 Betéve,1
+TimeOut (ms)_5,TimeOut (ms),2
+Delay (ms)_73,Delay (ms),3
+DI 6_4,DI 6,1
+TimeOut (ms)_6,TimeOut (ms),2
+Delay (ms)_74,Delay (ms),3
+DI 7_4,DI 7,1
+TimeOut (ms)_7,TimeOut (ms),2
+Delay (ms)_75,Delay (ms),3
+DI 8_5,DI 8,1
+TimeOut (ms)_8,TimeOut (ms),2
+Delay (ms)_76,Delay (ms),3
+DI 9_3,DI 9,1
+TimeOut (ms)_9,TimeOut (ms),2
+Delay (ms)_77,Delay (ms),3
+DI 10_4,DI 10,1
+TimeOut (ms)_10,TimeOut (ms),2
+Delay (ms)_78,Delay (ms),3
+DI 11_4,DI 11,1
+TimeOut (ms)_11,TimeOut (ms),2
+Delay (ms)_79,Delay (ms),3
+DI 12_4,DI 12,1
+TimeOut (ms)_12,TimeOut (ms),2
+Delay (ms)_80,Delay (ms),3
+566 Rögzítve_2,566 Rögzítve,1
+TimeOut (ms)_13,TimeOut (ms),2
+Delay (ms)_81,Delay (ms),3
+Vakdugó Benyomó Kint_2,Vakdugó Benyomó Kint,1
+TimeOut (ms)_14,TimeOut (ms),2
+Delay (ms)_82,Delay (ms),3
+Lézer Shutter Nyitva_2,Lézer Shutter Nyitva,1
+TimeOut (ms)_15,TimeOut (ms),2
+Delay (ms)_83,Delay (ms),3
+Vakdugó Benyomó Bent_2,Vakdugó Benyomó Bent,1
+TimeOut (ms)_16,TimeOut (ms),2
+Delay (ms)_84,Delay (ms),3
+Megfogó Zárva_2,Megfogó Zárva,1
+TimeOut (ms)_17,TimeOut (ms),2
+Delay (ms)_85,Delay (ms),3
+Vakdugó Benyomó Lent_2,Vakdugó Benyomó Lent,1
+TimeOut (ms)_18,TimeOut (ms),2
+Delay (ms)_86,Delay (ms),3
+Vakdugó Benyomó Fent_2,Vakdugó Benyomó Fent,1
+TimeOut (ms)_19,TimeOut (ms),2
+Delay (ms)_87,Delay (ms),3
+Kontakt Kinyomó Kint_2,Kontakt Kinyomó Kint,1
+TimeOut (ms)_20,TimeOut (ms),2
+Delay (ms)_88,Delay (ms),3
+Kontakt Kinyomó Bent_2,Kontakt Kinyomó Bent,1
+TimeOut (ms)_21,TimeOut (ms),2
+Delay (ms)_89,Delay (ms),3
+Vezeték Rögzítõ Lent_2,Vezeték Rögzítõ Lent,1
+TimeOut (ms)_22,TimeOut (ms),2
+Delay (ms)_90,Delay (ms),3
+Vezeték Rögzítõ Fent_2,Vezeték Rögzítõ Fent,1
+TimeOut (ms)_23,TimeOut (ms),2
+Delay (ms)_91,Delay (ms),3
+DI 8_6,DI 8,1
+TimeOut (ms)_24,TimeOut (ms),2
+Delay (ms)_92,Delay (ms),3
+DI 9_4,DI 9,1
+TimeOut (ms)_25,TimeOut (ms),2
+Delay (ms)_93,Delay (ms),3
+DI 10_5,DI 10,1
+TimeOut (ms)_26,TimeOut (ms),2
+Delay (ms)_94,Delay (ms),3
+DI 11_5,DI 11,1
+TimeOut (ms)_27,TimeOut (ms),2
+Delay (ms)_95,Delay (ms),3
+DI 12_5,DI 12,1
+TimeOut (ms)_28,TimeOut (ms),2
+Delay (ms)_96,Delay (ms),3
+DI 13_3,DI 13,1
+TimeOut (ms)_29,TimeOut (ms),2
+Delay (ms)_97,Delay (ms),3
+Megfogó Kint_2,Megfogó Kint,1
+TimeOut (ms)_30,TimeOut (ms),2
+Delay (ms)_98,Delay (ms),3
+Megfogó Bent_2,Megfogó Bent,1
+TimeOut (ms)_31,TimeOut (ms),2
+Delay (ms)_99,Delay (ms),3
+Megfogó Nyitva_2,Megfogó Nyitva,1
+TimeOut (ms)_32,TimeOut (ms),2
+Delay (ms)_100,Delay (ms),3
+DI 1_2,DI 1,1
+TimeOut (ms)_33,TimeOut (ms),2
+Delay (ms)_101,Delay (ms),3
+DI 2_2,DI 2,1
+TimeOut (ms)_34,TimeOut (ms),2
+Delay (ms)_102,Delay (ms),3
+DI 3_4,DI 3,1
+TimeOut (ms)_35,TimeOut (ms),2
+Delay (ms)_103,Delay (ms),3
+DI 4_2,DI 4,1
+TimeOut (ms)_36,TimeOut (ms),2
+Delay (ms)_104,Delay (ms),3
+Kritikus / OK_2,Kritikus / OK,1
+TimeOut (ms)_37,TimeOut (ms),2
+Delay (ms)_105,Delay (ms),3
+DI 6_5,DI 6,1
+TimeOut (ms)_38,TimeOut (ms),2
+Delay (ms)_106,Delay (ms),3
+DI 7_5,DI 7,1
+TimeOut (ms)_39,TimeOut (ms),2
+Delay (ms)_107,Delay (ms),3
+DI 8_7,DI 8,1
+TimeOut (ms)_40,TimeOut (ms),2
+Delay (ms)_108,Delay (ms),3
+Vezeték 1_2,Vezeték 1,1
+TimeOut (ms)_41,TimeOut (ms),2
+Delay (ms)_109,Delay (ms),3
+DI 10_6,DI 10,1
+TimeOut (ms)_42,TimeOut (ms),2
+Delay (ms)_110,Delay (ms),3
+DI 11_6,DI 11,1
+TimeOut (ms)_43,TimeOut (ms),2
+Delay (ms)_111,Delay (ms),3
+DI 12_6,DI 12,1
+TimeOut (ms)_44,TimeOut (ms),2
+Delay (ms)_112,Delay (ms),3
+DI 13_4,DI 13,1
+TimeOut (ms)_45,TimeOut (ms),2
+Delay (ms)_113,Delay (ms),3
+DI 14_2,DI 14,1
+TimeOut (ms)_46,TimeOut (ms),2
+Delay (ms)_114,Delay (ms),3
+DI 15_2,DI 15,1
+TimeOut (ms)_47,TimeOut (ms),2
+Delay (ms)_115,Delay (ms),3
+DI 16_2,DI 16,1
+TimeOut (ms)_48,TimeOut (ms),2
+Delay (ms)_116,Delay (ms),3
+10P Csatlakozó Betéve (NC)_2,10P Csatlakozó Betéve (NC),1
+TimeOut (ms)_49,TimeOut (ms),2
+Delay (ms)_117,Delay (ms),3
+Lézerfészek Érzékelõ_2,Lézerfészek Érzékelõ,1
+TimeOut (ms)_50,TimeOut (ms),2
+Delay (ms)_118,Delay (ms),3
+Vakdugó Érzékelõ (NC)_2,Vakdugó Érzékelõ (NC),1
+TimeOut (ms)_51,TimeOut (ms),2
+Delay (ms)_119,Delay (ms),3
+567 900 Betéve (NC)_2,567 900 Betéve (NC),1
+TimeOut (ms)_52,TimeOut (ms),2
+Delay (ms)_120,Delay (ms),3
+567 910 Betéve (NC)_2,567 910 Betéve (NC),1
+TimeOut (ms)_53,TimeOut (ms),2
+Delay (ms)_121,Delay (ms),3
+DI 6_6,DI 6,1
+TimeOut (ms)_54,TimeOut (ms),2
+Delay (ms)_122,Delay (ms),3
+DI 7_6,DI 7,1
+TimeOut (ms)_55,TimeOut (ms),2
+Delay (ms)_123,Delay (ms),3
+DI 8_8,DI 8,1
+TimeOut (ms)_56,TimeOut (ms),2
+Delay (ms)_124,Delay (ms),3
+DAQ Read AI Single,DAQ Read AI Single,0
+U 600V,U 600V,1
+U 600V Ext,U 600V Ext,1
+U ISOL,U ISOL,1
+U 566,U 566,1
+U 567 910,U 567 910,1
+U 567 900,U 567 900,1
+AI 3,AI 3,1
+AI 4,AI 4,1
+Referencia Hõmérséklet,Referencia Hõmérséklet,1
+DATAPROC Read Scaled AI Single,DATAPROC Read Scaled AI Single,0
+U 600V_2,U 600V,1
+U 600V Ext_2,U 600V Ext,1
+U ISOL_2,U ISOL,1
+U 566_2,U 566,1
+U 567 910_2,U 567 910,1
+U 567 900_2,U 567 900,1
+AI 3_2,AI 3,1
+AI 4_2,AI 4,1
+Referencia Hõmérséklet_2,Referencia Hõmérséklet,1
+DATAPROC Meas 566 Res,DATAPROC Meas 566 Res,0
+DATAPROC Meas 567900 Res,DATAPROC Meas 567900 Res,0
+DATAPROC Meas 567910 Res,DATAPROC Meas 567910 Res,0
+DATAPROC Meas Insulation Resistance,DATAPROC Meas Insulation Resistance,0
+MOTION Open,MOTION Open,0
+Assembly,Assembly,1
+TimeOut (ms)_57,TimeOut (ms),2
+Delay (ms)_125,Delay (ms),3
+Lift,Lift,1
+TimeOut (ms)_58,TimeOut (ms),2
+Delay (ms)_126,Delay (ms),3
+Transport,Transport,1
+TimeOut (ms)_59,TimeOut (ms),2
+Delay (ms)_127,Delay (ms),3
+MOTION Close,MOTION Close,0
+Assembly_2,Assembly,1
+TimeOut (ms)_60,TimeOut (ms),2
+Delay (ms)_128,Delay (ms),3
+Lift_2,Lift,1
+TimeOut (ms)_61,TimeOut (ms),2
+Delay (ms)_129,Delay (ms),3
+Transport_2,Transport,1
+TimeOut (ms)_62,TimeOut (ms),2
+Delay (ms)_130,Delay (ms),3
+MOTION Motor ON,MOTION Motor ON,0
+Assembly_3,Assembly,1
+TimeOut (ms)_63,TimeOut (ms),2
+Delay (ms)_131,Delay (ms),3
+Lift_3,Lift,1
+TimeOut (ms)_64,TimeOut (ms),2
+Delay (ms)_132,Delay (ms),3
+Transport_3,Transport,1
+TimeOut (ms)_65,TimeOut (ms),2
+Delay (ms)_133,Delay (ms),3
+MOTION Motor OFF,MOTION Motor OFF,0
+Assembly_4,Assembly,1
+TimeOut (ms)_66,TimeOut (ms),2
+Delay (ms)_134,Delay (ms),3
+Lift_4,Lift,1
+TimeOut (ms)_67,TimeOut (ms),2
+Delay (ms)_135,Delay (ms),3
+Transport_4,Transport,1
+TimeOut (ms)_68,TimeOut (ms),2
+Delay (ms)_136,Delay (ms),3
+MOTION Home,MOTION Home,0
+Assembly_5,Assembly,1
+TimeOut (ms)_69,TimeOut (ms),2
+Delay (ms)_137,Delay (ms),3
+Lift_5,Lift,1
+TimeOut (ms)_70,TimeOut (ms),2
+Delay (ms)_138,Delay (ms),3
+Transport_5,Transport,1
+TimeOut (ms)_71,TimeOut (ms),2
+Delay (ms)_139,Delay (ms),3
+MOTION Goto Position,MOTION Goto Position,0
+Assembly_6,Assembly,1
+TimeOut (ms)_72,TimeOut (ms),2
+Delay (ms)_140,Delay (ms),3
+Position Record Number,Position Record Number,4
+Lift_6,Lift,1
+TimeOut (ms)_73,TimeOut (ms),2
+Delay (ms)_141,Delay (ms),3
+Position Record Number_2,Position Record Number,4
+Transport_6,Transport,1
+TimeOut (ms)_74,TimeOut (ms),2
+Delay (ms)_142,Delay (ms),3
+Position Record Number_3,Position Record Number,4
+MOTION Goto Position NoWait,MOTION Goto Position NoWait,0
+Assembly_7,Assembly,1
+-_5,-,2
+Delay (ms)_143,Delay (ms),3
+Position Record Number_4,Position Record Number,4
+Lift_7,Lift,1
+-_6,-,2
+Delay (ms)_144,Delay (ms),3
+Position Record Number_5,Position Record Number,4
+Transport_7,Transport,1
+-_7,-,2
+Delay (ms)_145,Delay (ms),3
+Position Record Number_6,Position Record Number,4
+MOTION Wait for Position,MOTION Wait for Position,0
+Assembly_8,Assembly,1
+TimeOut (ms)_75,TimeOut (ms),2
+-_8,-,3
+Position Record Number_7,Position Record Number,4
+Lift_8,Lift,1
+TimeOut (ms)_76,TimeOut (ms),2
+-_9,-,3
+Position Record Number_8,Position Record Number,4
+Transport_8,Transport,1
+TimeOut (ms)_77,TimeOut (ms),2
+-_10,-,3
+Position Record Number_9,Position Record Number,4
+MOTION Stop,MOTION Stop,0
+Assembly_9,Assembly,1
+TimeOut (ms)_78,TimeOut (ms),2
+Delay (ms)_146,Delay (ms),3
+Lift_9,Lift,1
+TimeOut (ms)_79,TimeOut (ms),2
+Delay (ms)_147,Delay (ms),3
+Transport_9,Transport,1
+TimeOut (ms)_80,TimeOut (ms),2
+Delay (ms)_148,Delay (ms),3
+MOTION Error Reset,MOTION Error Reset,0
+Assembly_10,Assembly,1
+TimeOut (ms)_81,TimeOut (ms),2
+Delay (ms)_149,Delay (ms),3
+Lift_10,Lift,1
+TimeOut (ms)_82,TimeOut (ms),2
+Delay (ms)_150,Delay (ms),3
+Transport_10,Transport,1
+TimeOut (ms)_83,TimeOut (ms),2
+Delay (ms)_151,Delay (ms),3
+LINEARGAUGE Open,LINEARGAUGE Open,0
+-_11,-,1
+TimeOut (ms)_84,TimeOut (ms),2
+Delay (ms)_152,Delay (ms),3
+LINEARGAUGE Close,LINEARGAUGE Close,0
+-_12,-,1
+TimeOut (ms)_85,TimeOut (ms),2
+Delay (ms)_153,Delay (ms),3
+LINEARGAUGE Enable,LINEARGAUGE Enable,0
+Channel Number,Channel Number,1
+TimeOut (ms)_86,TimeOut (ms),2
+LINEARGAUGE Disable,LINEARGAUGE Disable,0
+Channel Number_2,Channel Number,1
+TimeOut (ms)_87,TimeOut (ms),2
+LINEARGAUGE Read,LINEARGAUGE Read,0
+Channel Number_3,Channel Number,1
+TimeOut (ms)_88,TimeOut (ms),2
+CODEREADER Open,CODEREADER Open,0
+-_13,-,1
+TimeOut (ms)_89,TimeOut (ms),2
+Delay (ms)_154,Delay (ms),3
+CODEREADER Close,CODEREADER Close,0
+-_14,-,1
+TimeOut (ms)_90,TimeOut (ms),2
+Delay (ms)_155,Delay (ms),3
+CODEREADER Read,CODEREADER Read,0
+-_15,-,1
+TimeOut (ms)_91,TimeOut (ms),2
+Delay (ms)_156,Delay (ms),3
+CODEREADER Verify Result,CODEREADER Verify Result,0
+2526520102000C,2526520102000C,1
+_1,,2
+0_34,0,3
+CODEREADER Clear Result,CODEREADER Clear Result,0
+-_16,-,1
+TimeOut (ms)_92,TimeOut (ms),2
+Delay (ms)_157,Delay (ms),3
+LASER Open,LASER Open,0
+-_17,-,1
+TimeOut (ms)_93,TimeOut (ms),2
+Delay (ms)_158,Delay (ms),3
+LASER Close,LASER Close,0
+-_18,-,1
+TimeOut (ms)_94,TimeOut (ms),2
+Delay (ms)_159,Delay (ms),3
+LASER Update Sys Time,LASER Update Sys Time,0
+-_19,-,1
+TimeOut (ms)_95,TimeOut (ms),2
+Delay (ms)_160,Delay (ms),3
+LASER Start Marking Mode,LASER Start Marking Mode,0
+File name (8 ch),File name (8 ch),1
+TimeOut (ms)_96,TimeOut (ms),2
+Delay (ms)_161,Delay (ms),3
+LASER Stop Marking Mode,LASER Stop Marking Mode,0
+-_20,-,1
+TimeOut (ms)_97,TimeOut (ms),2
+Delay (ms)_162,Delay (ms),3
+LASER Marking,LASER Marking,0
+-_21,-,1
+TimeOut (ms)_98,TimeOut (ms),2
+Delay (ms)_163,Delay (ms),3
+CAMERA Open,CAMERA Open,0
+Camera Number,Camera Number,1
+TimeOut (ms)_99,TimeOut (ms),2
+Delay (ms)_164,Delay (ms),3
+CAMERA Close,CAMERA Close,0
+Camera Number_2,Camera Number,1
+TimeOut (ms)_100,TimeOut (ms),2
+Delay (ms)_165,Delay (ms),3
+CAMERA Snapshot,CAMERA Snapshot,0
+Camera Number_3,Camera Number,1
+TimeOut (ms)_101,TimeOut (ms),2
+Delay (ms)_166,Delay (ms),3
+CAMERA Delete Image,CAMERA Delete Image,0
+Camera Number_4,Camera Number,1
+-_22,-,2
+Delay (ms)_167,Delay (ms),3
+CAMERA Flanging Check,CAMERA Flanging Check,0
+CAMERA Sensor Head Check 900,CAMERA Sensor Head Check 900,0
+CAMERA Sensor Head Check 910,CAMERA Sensor Head Check 910,0
+CAMERA Wire Color Check 900,CAMERA Wire Color Check 900,0
+CAMERA Wire Color Check 910,CAMERA Wire Color Check 910,0
+CAMERA Red Wire Color Check,CAMERA Red Wire Color Check,0
+CAMERA Brown Wire Color Check,CAMERA Brown Wire Color Check,0
+CAMERA Blue Wire Color Check,CAMERA Blue Wire Color Check,0
+CAMERA Blind Plug Check,CAMERA Blind Plug Check,0
+TIMER Delay,TIMER Delay,0
+Delay (ms)_168,Delay (ms),1
+ENGINE Jump,ENGINE Jump,0
+Label Name,Label Name,1
+ENGINE Etalon Meas?,ENGINE Etalon Meas?,0
+Etalon 1 Label,Etalon 1 Label,1
+Etalon 2 Label,Etalon 2 Label,2
+ENGINE Stop,ENGINE Stop,0
+ENGINE Score,ENGINE Score,0
+ENGINE Base Position,ENGINE Base Position,0
+0_35,0,1
+1_34,1,1
+ENGINE Check Base Position,ENGINE Check Base Position,0
+ENGINE Check Meas Result,ENGINE Check Meas Result,0
+Disable Ignore Error Mode,Disable Ignore Error Mode,1
+Enable Ignore Error Mode,Enable Ignore Error Mode,1
+ENGINE Store Data,ENGINE Store Data,0
+Register Number,Register Number,1
+ENGINE Storage Increment,ENGINE Storage Increment,0
+Storage Number,Storage Number,1
+ENGINE Storage Usability Check,ENGINE Storage Usability Check,0
+Storage Number_2,Storage Number,1
+ENGINE All Storage Usability Check,ENGINE All Storage Usability Check,0
+ENGINE Compare Data,ENGINE Compare Data,0
+Register Numer 1,Register Numer 1,1
+Register Numer 2,Register Numer 2,2
+ENGINE Operator,ENGINE Operator,0
+ENGINE Termék,ENGINE Termék,0
+ENGINE Date and Time,ENGINE Date and Time,0
+ENGINE Dialog Window,ENGINE Dialog Window,0
+Window file path,Window file path,1
+Message,Message,2
+ENGINE Set Statusbar,ENGINE Set Statusbar,0
+Message_2,Message,1
+ENGINE Write logfile,ENGINE Write logfile,0
+ENGINE Start Thread,ENGINE Start Thread,0
+Thread ID,Thread ID,1
+ENGINE Stop Thread,ENGINE Stop Thread,0
+Thread ID_4,Thread ID,1
+ENGINE Send Command,ENGINE Send Command,0
+Thread ID_2,Thread ID,1
+Command,Command,2
+ENGINE Wait Command Execution,ENGINE Wait Command Execution,0
+Thread ID_3,Thread ID,1
+ENGINE Wait Command,ENGINE Wait Command,0
+ENGINE Send Response,ENGINE Send Response,0
+Response,Response,1
